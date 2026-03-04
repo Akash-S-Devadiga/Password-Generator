@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background:linear-gradient(135deg,#08a67c,#322b64);
+    margin: 80px;
+   padding: 10px; 
+
+    
+
+}
+
+.container{
+  
+    width:500px;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+h1{
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+input{
+    width: 50%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 150px;
+    height: 25px;
+    
+}
+    
+button:hover{
+    background-color: #ebfffc;
+    color: #1d5e3c;
+    cursor: pointer;
+}
